@@ -1,0 +1,22 @@
+.form{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.button1{
+    background-color: #038fc6;
+    height: 30px;
+    width: 100px;
+    border: none;
+    border-radius: 20px;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+h1{
+    text-align: center;
+}
+.div1{
+    height: 50px;
+
+}
